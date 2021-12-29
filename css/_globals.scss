@@ -124,6 +124,7 @@ a, a:visited, a:hover{
     .nav-flex {
         display: flex;
         justify-content: space-between;
+        align-items: center;
         background-color: rgb(54, 54, 54);
     }
 }
@@ -132,6 +133,7 @@ a, a:visited, a:hover{
     .nav-flex {
         display: flex;
         justify-content: left;
+        align-items: center;
         background-color: rgb(54, 54, 54);
         
     }
